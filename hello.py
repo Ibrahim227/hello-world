@@ -19,9 +19,9 @@ time.sleep(1.5) # wait for 1.5s before displaying the remain message
 print("#########################################")
 print(f"# First Name: {name}                   #")
 print(f"# Last Name: {last_name}               #")
-print("# Contact :                             #")
+print(f"# Contact : {numb}                     #")
 print(f"# Email: {email}                       #")
-print(f"# Status : {status}                     #")
+print(f"# Status : {status}                    #")
 print("#########################################")
 
 time.sleep(1) # wait for 1s before displaying the end message
