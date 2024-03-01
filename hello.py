@@ -4,8 +4,8 @@ import time #time module
 name = input("Please enter your name: ")    # Ask the user for his/her name
 last_name = input("Please enter your Last Name:")
 numb = input("enter your number: ")
-email: input("Enter your email:")
-status: input("Enter your status:")
+email = input("Enter your email:")
+status = input("Enter your status:")
 
 great = f"\tHello {name} ! \n"
 msg = "Welcome to my Github profile !"
