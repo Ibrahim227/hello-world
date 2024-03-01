@@ -6,7 +6,7 @@ great = f"\tHello {name} ! \n"
 msg = "Welcome to my Github profile !"
 end_msg = "\t Good Bye \n"
 
-# print great and msg
+# print great and msg 
 print(great, msg)
 time.sleep(1.5) # wait for 1.5s before displaying the remain message
 
